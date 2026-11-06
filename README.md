@@ -11,7 +11,7 @@ This repository contains reproducible implementations and model benchmarks acros
 
 | Task | Title | Dataset | Status | Key Topics |
 | :--- | :--- | :--- | :--- | :--- |
-| Task 1 | Multi-Class Benchmark Classification | Iris Dataset | In Progress | Exploratory Data Analysis, Feature Scaling, Logistic Regression, Decision Trees, Decision Boundaries |
+| Task 1 | Multi-Class Benchmark Classification | Iris Dataset | Completed | Exploratory Data Analysis, Feature Scaling, Logistic Regression, Decision Trees, Decision Boundaries |
 | Task 2 | Natural Language Processing Classification | News Dataset | Upcoming | Text Preprocessing, TF-IDF Vectorization, Passive-Aggressive Classifier |
 | Task 3 | Customer Churn Prediction | Customer Dataset | Upcoming | Tabular Data, Imbalance Handling, Precision-Recall, Tree Ensembles |
 | Task 4 | Deep Learning Pipeline | Neural Network Task | Upcoming | Neural Network Architecture, Evaluation, Model Export |
