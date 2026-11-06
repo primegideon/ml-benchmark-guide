@@ -213,7 +213,7 @@ def run_pipeline():
     data_path = os.path.join(task_dir, "data", "iris.csv")
     assets_dir = setup_directories(task_dir)
 
-    print("--- ML Benchmark Guide: Task 1 Pipeline ---")
+    print("=== Task 1: Iris Classification Pipeline ===")
     df = load_dataset(data_path)
     generate_eda(df, assets_dir)
 
