@@ -13,7 +13,7 @@ This repository contains reproducible implementations and model benchmarks acros
 | :--- | :--- | :--- | :--- | :--- |
 | Task 1 | Multi-Class Benchmark Classification | Iris Dataset | Completed | Exploratory Data Analysis, Feature Scaling, Logistic Regression, Decision Trees, Decision Boundaries |
 | Task 2 | Real Estate Housing Price Prediction | California Housing | Completed | Feature Engineering, Null Imputation, OLS, Ridge, Lasso, GridSearchCV |
-| Task 3 | Customer Churn Prediction | Customer Dataset | Upcoming | Tabular Data, Imbalance Handling, Precision-Recall, Tree Ensembles |
+| Task 3 | Predictive Customer Churn Classifier | Telco Churn Dataset | In Progress | SMOTE Resampling, Random Forest, XGBoost, ROC-AUC Optimization |
 | Task 4 | Deep Learning Pipeline | Neural Network Task | Upcoming | Neural Network Architecture, Evaluation, Model Export |
 
 ---
